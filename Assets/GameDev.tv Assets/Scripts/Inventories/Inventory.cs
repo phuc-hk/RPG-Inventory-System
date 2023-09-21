@@ -138,6 +138,7 @@ namespace GameDevTV.Inventories
             slots = new InventoryItem[inventorySize];
             slots[0] = InventoryItem.GetFromID("71e73607-4bac-4e42-b7d6-5e6f91e92dc4");
             slots[1] = InventoryItem.GetFromID("0aa7c8b8-4796-42aa-89d0-9d100ea67d7b");
+            slots[2] = InventoryItem.GetFromID("d651caa1-4007-41bc-acdd-8f8d736d272c");
         }
 
         /// <summary>
